@@ -1,0 +1,82 @@
+body{
+	background-color: #000000; 
+	margin: 0;
+	line-height: 30px;
+	font-size: 25px;
+}
+
+header{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: #7CFB10;
+	font-size: 50px;
+
+}
+a{
+	color: #7CFB10;
+}
+a:hover{
+	color: red;
+}
+header img{
+	border-radius: 150px;
+	width: 1000px;
+	height: 350px;
+	padding-bottom: 0px;
+}
+
+h2{
+	color: #7CFB10;
+	font-size: 35px;
+	Margin:40px 0 10px;
+}
+p{
+	color: white;
+	font-size: 25px;
+}
+h2 p{
+	color: white;
+}
+h1, h2{
+	font-family: 'Press Start 2P', cursive;
+	padding-top: 20px;
+}
+footer {
+	color: white;
+	padding: 0 30px; 
+}
+title {
+	padding-top: 1000px;
+}
+main img{
+	height: 500px;
+	text-align: center;
+}
+main{
+	padding: 0 30px; 
+}
+ul{
+	color: white;
+	font-size: 25px;
+}
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0
+}
+
+img.LOL{
+	border-radius: 1000px;
+	width: 500px;
+	height: 800px;
+	padding-bottom: 200px;
+	text-align: center;
+	padding-top: 0px;
+}
+img.why{
+
+}
