@@ -66,7 +66,7 @@ ul{
 p.caption{
 	color: #999999;
 	font-style: italic;
-	margin-top: 0
+	margin-top: 0px;
 }
 
 img.LOL{
@@ -76,7 +76,4 @@ img.LOL{
 	padding-bottom: 200px;
 	text-align: center;
 	padding-top: 0px;
-}
-img.why{
-
 }
