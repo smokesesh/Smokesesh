@@ -90,3 +90,7 @@ img.LOL{
 @-moz-viewport {
   width: device-width ;
 }
+
+@media screen and (max-width:320px) {
+  /* CSS for screens that are 320 pixels or less will be put in this section */
+}
