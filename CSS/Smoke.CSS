@@ -77,3 +77,8 @@ img.LOL{
 	text-align: center;
 	padding-top: 0px;
 }
+@media (max-width:400px;) {
+  img#optionalstuff {
+    display: none;
+  }
+}
