@@ -78,7 +78,15 @@ img.LOL{
 	padding-top: 0px;
 }
 @media (max-width:400px;) {
-  img#optionalstuff {
+  img#optionalstuff } {
     display: none;
   }
+  @-ms-viewport {
+  width: device-width ;
+}
+@-webkit-viewport {
+  width: device-width ;
+}
+@-moz-viewport {
+  width: device-width ;
 }
