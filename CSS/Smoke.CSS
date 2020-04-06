@@ -27,6 +27,7 @@ header img{
 	width: 1000px;
 	height: 350px;
 	padding-bottom: 0px;
+	text-align: center;
 }
 
 h2{
@@ -75,5 +76,4 @@ img.LOL{
 	height: 800px;
 	padding-bottom: 200px;
 	text-align: center;
-	padding-top: 0px;
-}
+	padding-top: 0px;}
