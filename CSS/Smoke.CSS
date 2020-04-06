@@ -23,7 +23,7 @@ a:hover{
 	color: red;
 }
 header img{
-	border-radius: 150px;
+	
 	width: 1000px;
 	height: 350px;
 	padding-bottom: 0px;
@@ -74,8 +74,8 @@ p.caption{
 }
 
 img.LOL{
-	border-radius: 1000px;
-	width: 300px;
+	
+	width: auto;
 	height: 620px;
 	padding-bottom: 200px;
 	text-align: center;
