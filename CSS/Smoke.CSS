@@ -77,23 +77,3 @@ img.LOL{
 	text-align: center;
 	padding-top: 0px;
 }
-@media (max-width:400px;) {
-  img#optionalstuff } {
-    display: none;
-  }
-  @-ms-viewport {
-  width: device-width ;
-}
-@-webkit-viewport {
-  width: device-width ;
-}
-@-moz-viewport {
-  width: device-width ;
-}
-
-@media screen and (orientation:portrait) {
-  /* ... */
-}
-@media screen and (orientation: landscape) {
-  /* ... */
-}
